@@ -1,0 +1,5 @@
+[
+  "test_arithmetic.py::test_subtract[input0-1-True]",
+  "test_arithmetic.py::test_subtract[input1--1.1-True]",
+  "test_arithmetic.py::test_subtract[input2--2-False]"
+]
